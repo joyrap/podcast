@@ -16,6 +16,7 @@ Podcast频道收集
 
 1. [Knowledge Project](https://fs.blog/knowledge-podcast/)
 2. [Hidden Brain](https://hiddenbrain.org/)
+3. [Life Kit](https://www.npr.org/podcasts/510338/all-guides)
    
 ## 商业
 
