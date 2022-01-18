@@ -8,8 +8,9 @@ Podcast频道收集
    
 ## 科技&编程
 
-1. [Software Engineering Daily](https://softwareengineeringdaily.com/)
-2. [Changelog](https://changelog.com/podcast)
+1. [Software Engineering Daily](https://softwareengineeringdaily.com/feed/podcast/)
+2. [Software Engineering Radio](https://www.se-radio.net/)
+3. [Changelog](https://changelog.com/podcast)
 
 ## 认知&学习
 
